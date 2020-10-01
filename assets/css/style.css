@@ -687,6 +687,28 @@ section {
   right: 15px;
 }
 
+/*button*/
+.button {
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  background-color: #d5e8f8;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
+
+.button:hover {background-color: #2ac6d1}
+
+.button:active {
+  background-color: #1e609e;
+  box-shadow: 0 5px #666; 
+  transform: translateY(4px);
+}
+
 /*--------------------------------------------------------------
 # Services
 --------------------------------------------------------------*/
