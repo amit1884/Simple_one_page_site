@@ -1,1 +1,1 @@
-##Hello This is a Profile site template
+##  A boylerplate for other projects.
